@@ -1,9 +1,6 @@
-<script setup>
-</script>
-
 <template>
-  <router-view />
+  <div>
+    <h1>Приложение загружено!</h1>
+    <router-view />
+  </div>
 </template>
-
-<style scoped>
-</style>
